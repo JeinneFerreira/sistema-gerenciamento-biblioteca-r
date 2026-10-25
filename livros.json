@@ -1,0 +1,50 @@
+[
+    {
+        "titulo": "A Hora da Estrela",
+        "autor": "Clarice Lispector",
+        "ano": 1977,
+        "disponivel": "Sim"
+    },
+    {
+        "titulo": "Capitães da Areia",
+        "autor": "Jorge Amado",
+        "ano": 1937,
+        "disponivel": "Sim"
+    },
+    {
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": 1899,
+        "disponivel": "Sim"
+    },
+    {
+        "titulo": "Grande Sertão: Veredas",
+        "autor": "João Guimarães Rosa",
+        "ano": 1956,
+        "disponivel": "Sim"
+    },
+    {
+        "titulo": "Macunaíma",
+        "autor": "Mário de Andrade",
+        "ano": 1928,
+        "disponivel": "Sim"
+    },
+    {
+        "titulo": "Memórias Póstumas de Brás Cubas",
+        "autor": "Machado de Assis",
+        "ano": 1881,
+        "disponivel": "Sim"
+    },
+    {
+        "titulo": "O Cortiço",
+        "autor": "Aluísio Azevedo",
+        "ano": 1890,
+        "disponivel": "Sim"
+    },
+    {
+        "titulo": "Vidas Secas",
+        "autor": "Graciliano Ramos",
+        "ano": 1938,
+        "disponivel": "Sim"
+    }
+]
